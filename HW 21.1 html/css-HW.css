@@ -1,0 +1,35 @@
+body {
+	color: #f7dc6f ;
+	font-size: 150%;
+	font-family: sans-serif;
+	background-color: #85c1e9;
+}
+a:visited{
+	color:#229954  ;
+}
+p {
+	
+	font-family: cursive;
+	font-size: 50%;
+}
+ul {
+	font-family: tahoma;
+	font-size: 90%;
+}
+h1 {
+	font-family: comic sans MS;
+	text-align: center;
+	font-size: 110%;
+	color: #f1948a ;
+	background-color: #34495e  ;
+}
+div{
+	color: black;
+}
+ .Заголовок {
+	color: #7b241c;
+	text-align: left;
+}
+.Посилання {
+	text-align: center;
+}
